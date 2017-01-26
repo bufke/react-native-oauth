@@ -4,6 +4,7 @@
   "author": "Ari Lerner <ari@fullstack.io> (https://fullstackreact.com)",
   "description": "An oauth manager for dealing with the complexities of oauth",
   "main": "./react-native-oauth.js",
+  "typings": "./react-native-oauth.d.ts",
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "build": "./node_modules/.bin/babel --source-maps=true --out-dir=dist .",
